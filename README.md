@@ -34,7 +34,7 @@ JSON Formatter is an AngularJS directive for rendering JSON objects in HTML with
 
 #### Configuration
 
-You can use `JSONFormatterConfig` provider to configure JOSN Formatter.
+You can use `JSONFormatterConfig` provider to configure JSON Formatter.
 
 Available configurations
 
